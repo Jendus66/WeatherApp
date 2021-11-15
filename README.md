@@ -5,3 +5,4 @@ The app gets data via API openweathermap.org. Data are displayed via GUI made wi
 and gets its weather data after submit button click. There is a folder with weather icons in this repository which are also displayed
 via GUI based on weather data.
 
+![Screenshot](wa_img.png)
